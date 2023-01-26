@@ -1,0 +1,26 @@
+@media screen and (max-width:760px){
+    .h-page{
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+    }
+    
+    
+    .m-page{
+        flex-direction: column;
+        flex-wrap: wrap;
+        align-items: center;
+        
+    }
+    input{
+        align-self: center;
+    }
+    
+    img{
+        width: 400px;
+        margin-top: 100px;
+        margin-left: 200px;
+    }
+    
+}
+    
