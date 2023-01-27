@@ -10,6 +10,7 @@
 body {
   background-color: rgba(17, 17, 17, 0.877);
   margin: 0 auto;
+  
 }
 .h-page {
   width: 100%;
@@ -91,6 +92,8 @@ body {
   height: 50px;
   border-radius: 15px;
   border: none;
+  color: rgb(132, 14, 201);
+  
 }
 
 .as-page form [type="submit"] {
